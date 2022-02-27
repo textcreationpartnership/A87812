@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Lieutenant Colonel Knight in the province of Munster in Ireland, setting forth the extraordinary wants of the soldiery; and the carriage of the army since the Lord Lisle's coming thence.</title>
+            <author>Knight, R., Lieutenant Colonel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87812</idno>
+            <idno type="STC">Wing K692</idno>
+            <idno type="STC">Thomason E399_23</idno>
+            <idno type="STC">ESTC R201724</idno>
+            <idno type="EEBO-CITATION">99862223</idno>
+            <idno type="PROQUEST">99862223</idno>
+            <idno type="VID">114374</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87812)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114374)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E399[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Lieutenant Colonel Knight in the province of Munster in Ireland, setting forth the extraordinary wants of the soldiery; and the carriage of the army since the Lord Lisle's coming thence.</title>
+                  <author>Knight, R., Lieutenant Colonel.</author>
+               </titleStmt>
+               <extent>14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1647. July 22. [1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of two letters, the first of which is dated and signed: Cork, Iune 22. 1647. R.K.; the second is dated and signed: Cork, July 4. 1647. Lieutenant Col: Knight.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leicester, Philip Sidney, --  Earl of, 1619-1698 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114374:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 63 -->
+            <p>A LETTER From Lieutenant Colonel <hi>Knight</hi> IN The Province of <hi>Munſter</hi> IN IRELAND, Setting forth the Extraordinary wants of the Soldiery; AND The carriage of the Army ſince the Lord <hi>Liſle</hi>'s coming thence.</p>
+            <figure>
+               <figDesc>Tudor rose</figDesc>
+            </figure>
+            <figure>
+               <figDesc>Scottish thistle</figDesc>
+            </figure>
+            <figure>
+               <figDesc>French fleur-de-lis</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of Irish harp</figDesc>
+            </figure>
+            <p>Printed in the Year, 1647. July 22.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114374:2"/>
+            <!-- PDF PAGE 64 -->
+            <pb n="3" facs="tcp:114374:2"/>
+            <!-- PDF PAGE 64 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce my laſt Letter, our Army are re<g ref="char:EOLhyphen"/>maining in Gariſon when they ought to be in the Field; but Soldiery is grown a Trade, and if they can but get a good name at firſt, by putting off ware at a very reaſonable rate, 'tis no matter what they put off afterwards, being but at firſt cryed up; 'tis ſo with my Lord <hi>Inchiquine:</hi> The taking of Dungarvan (we hear) is lookt upon in England as an action of great concernment, and ſo 'tis thought here, truly by many of the beſt Officers, as cauſing in a maner the loſs of the Army, I am confident of this Summers work; for at the departure of the Lord <hi>Liſle,</hi> who by his great care had provided all things in readineſs to take the Field, and left the Ar<g ref="char:EOLhyphen"/>my in a very good condition, if we had at firſt marched into <hi>Butlers</hi> countrey (we ha<g ref="char:EOLhyphen"/>ving then a moneths proviſion) which ſwarmed at that time with cattel, we had
+<pb n="4" facs="tcp:114374:3"/>
+               <!-- PDF PAGE 65 -->firſt annoyed the Rebels, by being in their countrey: Secondly, our ſtaying there had cut off all poſsibility of their joyning to<g ref="char:EOLhyphen"/>gether: Thirdly, our Army lying ſo con<g ref="char:EOLhyphen"/>veniently to intercept any party of theirs that ſhould advance, doubtleſs we being then ſo ſtrong in horſe, (and this <hi>Butlers</hi> countrey being not far off from Dongar<g ref="char:EOLhyphen"/>van) if my Lord had but ſent Five hundred horſe to have blockt up the Town, they muſt of neceſsity have been forced to yield, they having but little proviſion in town, and no freſh water at all: Laſtly, his Lord<g ref="char:EOLhyphen"/>ſhip, in all poſsibility, if his Lordſhip would have been perſwaded to this courſe, (allowing but a little more time) had taken this place without the loſs of any men, had kept his Army together, and half the Army had not been ſtarved as now they are; for his men wanted ſo much at that ſiege, that the poor Soldiers were for<g ref="char:EOLhyphen"/>ced by hunger to run to the walls of the town to beg bread of the Rebells, and the men ſtarved ſo faſt, as my Lord ſaid if they had not delivered up the town the ſame
+<pb n="5" facs="tcp:114374:3"/>
+               <!-- PDF PAGE 65 -->day they did, he muſt have been forced to have drawn off; and the Rebells when they marched out they ſaid, they could not have kept the town four and twenty hours lon<g ref="char:EOLhyphen"/>ger for want of water; I leave the conclu<g ref="char:EOLhyphen"/>ſion to your ſelf, who by this may ſee the conſcience of an Iriſh General, who ſtarves his Army here to feed his good name in England: His Lordſhip, as ſoon as he had taken this Town (if I may ſo call it, con<g ref="char:EOLhyphen"/>ſiſting but of twenty poor tiled houſes) returned to Cork with the remainder of his poor Soldiers that were not ſtarved, ei<g ref="char:EOLhyphen"/>ther at the ſiege, or by the way in their re<g ref="char:EOLhyphen"/>turn (which every ditch can ſhew were many) his Lordſhip reſted here about a fortnight: The 29 of May his Lordſhip marched no farther then Caperqueen with the Army, a thing much wondred at, being in a ſtarving condition, and ſuch plenty of proviſions to be had in the Rebells coun<g ref="char:EOLhyphen"/>trey, without any apparent oppoſition by them: The third of June 300 horſe un<g ref="char:EOLhyphen"/>der the command of Major <hi>Vordham</hi> was ſent the directeſt way to Karrick, from
+<pb n="6" facs="tcp:114374:4"/>
+               <!-- PDF PAGE 66 -->thence to drive all the countrey to kill <hi>Mac Thomas,</hi> where Major General <hi>Sterling</hi> one of the Lord <hi>Inchiquines</hi> new Model, met with four Regiments of Foot, who returned ſuddenly to Caperqueen, where my Lord remained; they got ſome cattel, but 'twas an inconſiderable prey for ſo conſiderable a party: The fifth of June his Lordſhip commanded out one Captain <hi>Poor</hi> an Iriſh man, with a good party of the choiſeſt horſe of the Army, to diſcover the Enemy; they having intelligence of the ſign, drew together a good body of horſe and foot, and advanced toward Captain <hi>Poor,</hi> which the Scouts perceiving returned, and adver<g ref="char:EOLhyphen"/>tiſed Captain <hi>Poor</hi> that they were advanced with a very great body; but it ſeems that the ſaid Captain <hi>Poor</hi> ſent his Trumpeter to a Rebells Caſtle for drink, and neglected the Alarm; thus Iriſh men prefer the gains of a little Iriſh drink, before the ſhedding a great deal of Proteſtants blood; for in the interim the Rebells got between him and home, charged our men, routed them, kild near ſixty, which they moſt cruelly butcher<g ref="char:EOLhyphen"/>ed,
+<pb n="7" facs="tcp:114374:4"/>
+               <!-- PDF PAGE 66 -->took twelve priſoners, moſt that eſca<g ref="char:EOLhyphen"/>ped loft their horſes, purſued our men till they came within half a mile to Caper<g ref="char:EOLhyphen"/>queen, where my Lord remained with the Army, Lieutenant <hi>Selby,</hi> beſides three Cor<g ref="char:EOLhyphen"/>nets loſt; one Colonel <hi>Grady</hi> that eſcaped out of London, was a chief actor in this defeat, which (God be praiſed) was never paraleld in this Province; this Captain <hi>Poor</hi> is not at all queſtioned for this buſi<g ref="char:EOLhyphen"/>neſs, my Lord ſaid, He hath got a great deal of Honor by it; his Lordſhip having ſpent fifteen days proviſion at Caperqueen, and performed this gallant Exploit, is returned in the middle of Summer to his Winter-quarters at Cork, having a great part of his Army ſtarved to death, great ſtore for hunger run away to the Rebels, and at leaſt Twelve hundred fallen ſick; Colonel <hi>Need<g ref="char:EOLhyphen"/>hams</hi> Regiment marched out of Cork to<g ref="char:EOLhyphen"/>ward Caperqueen Five hundred and ſeven<g ref="char:EOLhyphen"/>ty, and marched in but One hundred; ano<g ref="char:EOLhyphen"/>ther Colonel (they report) marched out Six hundred and returned but One hun<g ref="char:EOLhyphen"/>dred and twenty, and <hi>Sic de ceteris,</hi> many
+<pb n="8" facs="tcp:114374:5"/>
+               <!-- PDF PAGE 67 -->Officers report that the Army is no more able to march out this Summer: Thus you ſee the greateſt Army that ever was in Munſter, is metamorphoſed to a little or nothing. Truly our Soldiers are become the obſtacles of ſo great miſery, as I believe could melt the hardeſt hearts into pity that ſhould behold them, which many much wonder at, conſidering 'tis but nine weeks ſince my Lord <hi>Liſle</hi> left this Province, and his Lordſhip left behinde him 6500 <hi>l.</hi> in money, a full moneths proviſion ſince ar<g ref="char:EOLhyphen"/>rived here, 5000 <hi>l.</hi> in money and good ſtore of proviſion, the Contribution ſince, Exciſe and other Rents cannot amount to leſs then 4000 <hi>l.</hi> the Cattel taken to 1500. which ſums being caſt up cannot amount to leſs then 20000 <hi>l.</hi> yet for all theſe great ſums received, the Officers want, the Sol<g ref="char:EOLhyphen"/>diers ſtarve, thoſe Soldiers that are able to march have ſix penyworth in bread <hi>per</hi> week, poor ſick Soldiers have ſometimes nothing; but the beſt is, the Lord <hi>Inchiquine</hi> is well, and able to play at bouls on the Faſt day, to ſit up whole nights a Feaſting,
+<pb n="9" facs="tcp:114374:5"/>
+               <!-- PDF PAGE 67 -->with Dancing and Fidling, while the poor Soldiers daily ſtarve under his window: If this be Religion and Zeal to the Cauſe, Good Lord deliver me from the like. For all the ſtarving condition, yet his Lord<g ref="char:EOLhyphen"/>ſhip permits Officers and others licence to Tranſport Cows, and ſome Oxen, though they are extremely wanted to draw the Ar<g ref="char:EOLhyphen"/>tillary; a licence which doth diſhearten many: Sir <hi>Piercy Smith</hi> is made Quarter<g ref="char:EOLhyphen"/>maſter-General of the Field. I could ſay much more of this nature, but I am in haſte to conclude: The preſent ſtate of the Ar<g ref="char:EOLhyphen"/>my is very aguiſh, and the approach of the Rebels, I fear, will put us into a ſhaking fit.</p>
+            <closer>
+               <dateline>
+                  <hi>Cork,</hi> 
+                  <date>
+                     <hi>Iune</hi> 22. 1647.</date>
+               </dateline>
+               <signed>Your humble ſervant, <hi>R. K.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="10" facs="tcp:114374:6"/>
+            <!-- PDF PAGE 68 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving ſo convenient an opportunity, I could not omit giving you the Re<g ref="char:EOLhyphen"/>lation of ſome Paſſages here that have hap<g ref="char:EOLhyphen"/>ned ſithence my Lord <hi>Liſle</hi>'s (unhappy) calling over: 'Tis true, ſome (eſpecially thoſe that have Cuſtodiums) were glad of his going, but more do now wiſh he had ſtayed, eſpecially the poor Soldiers, for then, I verily believe, we had not been in ſuch extraordinary want (both Officers and Soldiers) as now we are: I doubt not but the Relation of taking <hi>Dungarnon</hi> is ſtale with you; but whether you heard of the men loſt there, that were ſtarved for meer hunger (and knockt on the head as they lay in the Ditches, by the protected Iriſh) being not able to march away when the Army drew from thence, I know not; but confident I am there was many a poor Soldier loſt there.</p>
+            <p>Truly, the poor Soldiers are ſtarved, and dye in the very ſtreets, notwithſtanding there are great ſtore of Cows and Oxen
+<pb n="11" facs="tcp:114374:6"/>
+               <!-- PDF PAGE 68 -->tranſported into <hi>England</hi> from hence by li<g ref="char:EOLhyphen"/>cence from my Lord: What will be the iſſue of theſe things, I know not; the Soldiers that are not ſick, are ſo faint that they are not able to march three miles aday, but as they march, fall ſick and dye in the ditches and hedges: As the other day there was a Regiment conſiſting of Five hundred, that marched forth of <hi>Cork,</hi> and was not above a week abroad, and (upon no Service all the while, that) when they came home mar<g ref="char:EOLhyphen"/>ched not in again One hundred and fifty. At <hi>Youghal</hi> there is no leſs then One thou<g ref="char:EOLhyphen"/>ſand two hundred Soldiers ſick, ſome of them lie in the ſtreets for quarter, and beg of the people that paſs along; yet for all that, the Soldiers are in ſuch extraordinary want: yet there are thoſe that never ſer<g ref="char:EOLhyphen"/>ved the State, that have what would keep many a good mans child from ſtarving: <hi>God</hi> put into the Parliaments hearts to take ſome ſpeedy courſe for our deliverance out of this <hi>Iriſh</hi> Bondage.</p>
+            <p>The other day there was a party of horſe conſiſting of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome out of every troop
+<pb n="12" facs="tcp:114374:7"/>
+               <!-- PDF PAGE 69 -->commanded by Captain <hi>Poor</hi> (an Iriſh<g ref="char:EOLhyphen"/>man) to diſcover a party of the Enemies Horſe and Foot that lay beyond <hi>Capperquin;</hi> the Enemy had intelligence (I will not ſay by <hi>Poor</hi>'s means) of it, ſent a party of theirs to ſurround them, fell upon our men, rout<g ref="char:EOLhyphen"/>ed them, killed in the place about Sixty pri<g ref="char:EOLhyphen"/>vate Troopers, one Lieutenant, and two Cornets; but the <hi>Iriſh</hi> Captain eſcaped, and left his Soldiers to the mercy of his merci<g ref="char:EOLhyphen"/>leſs Countreymen; yet for all this was ne<g ref="char:EOLhyphen"/>ver queſtioned: 'Tis ſtrange we have not Engliſh men enough in <hi>England</hi> to Com<g ref="char:EOLhyphen"/>mand us here, but muſt be Commanded by the natural <hi>Iriſh.</hi>
+            </p>
+            <p>There was two Frigots bound to <hi>Dun<g ref="char:EOLhyphen"/>garnon,</hi> for the Relief of that Gariſon, laden with Proviſion, Ammunition,  and were about the fifth of this inſtant taken by the <hi>Waſhford</hi> Pirats: I fear God doth not give a bleſsing to our Endeavors, there is ſuch ungodly, unjuſt, and corrupt deal<g ref="char:EOLhyphen"/>ing amongſt us.</p>
+            <p>But amongſt all theſe ſad Stories, I will give you a pretty Relation of (my Couſin)
+<pb n="13" facs="tcp:114374:7"/>
+               <!-- PDF PAGE 69 -->a great man in perſon (and now in Com<g ref="char:EOLhyphen"/>mand) and though he be a friend of mine, I cannot omit it; he was commanded with a party of Horſe conſiſting of 500. to march into the County of <hi>Kerry</hi> for a prey (that County you know being full of cat<g ref="char:EOLhyphen"/>tel) after they had marched a great way in<g ref="char:EOLhyphen"/>to the County, on the ſide of a high Hill they diſcovered a great moving body, which the Commander in chief ſwore (God damn him) was a body of the Enemy mar<g ref="char:EOLhyphen"/>ching to ſurround; whereupon he retreat<g ref="char:EOLhyphen"/>ed, and on his retreat took a Priſoner, and examined him what Forces of Horſe and Foot were in the County; the Priſoner ſwore, None; then they asked him what body of men were them on that great Hill; He ſwore they were no men, but Cows driving away for fear of them, becauſe the Alarm was in the County that they were in it: So the Cows through their fear eſcaped, and they came home like fools as they went.</p>
+            <p>I pray preſent my humble ſervice to my Colonel; and uſe your endeavor to make
+<pb n="14" facs="tcp:114374:8"/>
+               <!-- PDF PAGE 70 -->my peace with him: I know now that ſince his Recruit is Disbanded, and Field-Officers diſpierced, he cannot be againſt my being Lieutenant Colonel to the Regi<g ref="char:EOLhyphen"/>ment: Let him know, That I am heartily ſorry that ever any difference ſhould hap<g ref="char:EOLhyphen"/>pen between him and me, or any of the Officers: I hope we ſhall for all this love and live together like friends. I will carry a fair correſpondency with you know whom, till I ſee the tide turn, which I hope will be ſhortly (let what will come to me) And farther tell my Colonel, That if he pleaſeth to accept of it, I will give him the true Relation of all paſſages here, as often as I can meet with a haſty Meſſenger: it is very dangerous writing, for many Let<g ref="char:EOLhyphen"/>ters have been intercepted both going and coming (a guilty conſcience needs no Ac<g ref="char:EOLhyphen"/>cuſer) this being all at preſent, but that I am</p>
+            <closer>
+               <signed>Signed by<g ref="char:punc">▪</g> Lieutenant Col: <hi>Knight.</hi>
+               </signed> 
+               <dateline>Cork, <date>July 4. 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:114374:8"/>
+            <!-- PDF PAGE 70 -->
+         </div>
+      </body>
+   </text>
+</TEI>
